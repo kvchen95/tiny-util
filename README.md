@@ -1,2 +1,3 @@
 # js-code
-一些代码题
+
+Collect some classic or interesting js code questions. 
