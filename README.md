@@ -1,7 +1,7 @@
 # js-code
 
-就是一些平时遇到的问题，基础的一些小东西。  
-把一件一件的小事做好，自然会有我自己的收获。
+这里面就是一些平时遇到的问题，基础的一些小东西。  
+坚信**把自己一件一件的小事做好，自然会有我自己的收获。**
 
 - [url 参数字符串与对象互转](https://github.com/coveychen95/js-code/blob/master/001.query-string.js)
 - [手写 call 的实现](https://github.com/coveychen95/js-code/blob/master/002.call.js)
