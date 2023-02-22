@@ -1,6 +1,6 @@
 # js-code
 
-这里面就是一些平时遇到的问题，基础的一些小东西。  
+这里面就是一些平时遇到的可能有意思的问题，基础的一些小东西。  
 坚信**把自己一件一件的小事做好，自然会有我自己的收获。**
 
 - [url 参数字符串与对象互转](https://github.com/coveychen95/js-code/blob/master/001.query-string.js)
