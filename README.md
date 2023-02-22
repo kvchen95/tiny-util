@@ -1,3 +1,4 @@
 # js-code
 
-Collect some classic or interesting js code questions. 
+就是一些平时遇到的问题，基础的一些小东西。  
+把一件一件的小事做好，自然会有我自己的收获。
