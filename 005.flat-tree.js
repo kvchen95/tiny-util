@@ -54,7 +54,7 @@ function flat2tree(arr) {
   const map = {}
   const res = []
   arr.forEach(node => {
-    map[node.id] = node
+    map[node.id] = { ...node }
   })
   arr.forEach(node => {
     if (node.pid) {
